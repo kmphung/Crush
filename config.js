@@ -1,13 +1,13 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
+    titleWeb: "Gửi kmy",
+    introTitle: 'kmy ko iu dấu',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao kmy cứ đi nhầm đường
+    Lạc vào tim tui lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
+    btnIntro: '^^hê hê^^',
+    title: 'Phải chăng tui đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Thoát web là chấp nhận ko iu tui rồi nhé!!!',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me' //link mess của các bạn. VD: /dinhkaito
-}
+    messLink: 'https://www.facebook.com/messages/t/100028693996738'
